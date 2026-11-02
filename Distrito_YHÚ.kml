@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_YH__.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N_" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="double"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_sel" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="Asistencia" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_YH__">
+      <name>Distrito_YHÃš</name>
+      <Placemark id="Distrito_YH__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6072714.00000000000</SimpleData>
+            <SimpleData name="cedula">6072714</SimpleData>
+            <SimpleData name="Shape_Leng">380.67110191600</SimpleData>
+            <SimpleData name="Shape_Area">9047.71100980000</SimpleData>
+            <SimpleData name="Cédula_1">6072714.00000000000</SimpleData>
+            <SimpleData name="N_">165.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA MARTA PENAYO FERREIRA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">JUKERI</SimpleData>
+            <SimpleData name="Teléfono">982765368</SimpleData>
+            <SimpleData name="Vivienda_L">-25.15673170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.90581000000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-25.15641895000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.89947359000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">VERIFICAR POSIBLE DESERCION</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/20</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Observaci">Parcela eliminada con herbicida.No hay ningun plantin en la parcela por herbicida</SimpleData>
+            <SimpleData name="Dias_trans">12.38595978010</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">165</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8989947003147,-25.1568285997233,0
+                -55.8999261002764,-25.1568752996875,0
+                -55.8999623005061,-25.1560271996954,0
+                -55.8990225001039,-25.1559483998262,0
+                -55.8989947003147,-25.1568285997233,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">5411637.00000000000</SimpleData>
+            <SimpleData name="cedula">5411637</SimpleData>
+            <SimpleData name="Shape_Leng">778.19155957100</SimpleData>
+            <SimpleData name="Shape_Area">8781.58327940000</SimpleData>
+            <SimpleData name="Cédula_1">5411637.00000000000</SimpleData>
+            <SimpleData name="N_">173.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA GLORIA MAGDALENA MALLORQUIN SOSA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">MARIA AUXILIADORA</SimpleData>
+            <SimpleData name="Teléfono">0971414359</SimpleData>
+            <SimpleData name="Vivienda_L">-24.95089660000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.90449650000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.94924441000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.90495055000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/24</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">8.00597222222</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">173</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9044012999951,-24.9504658994599,0
+                -55.904660200052,-24.9506155996636,0
+                -55.9054587999064,-24.9481865001683,0
+                -55.9052377995189,-24.9481337000487,0
+                -55.9054791997865,-24.94742580023,0
+                -55.9054095004609,-24.9474057000699,0
+                -55.9044012999951,-24.9504658994599,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">3939487.00000000000</SimpleData>
+            <SimpleData name="cedula">3939487</SimpleData>
+            <SimpleData name="Shape_Leng">413.28490000600</SimpleData>
+            <SimpleData name="Shape_Area">8352.93299557000</SimpleData>
+            <SimpleData name="Cédula_1">3939487.00000000000</SimpleData>
+            <SimpleData name="N_">169.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EVER PORTILLO FRANCO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">VILLAREAL ZAPATTINI KUE</SimpleData>
+            <SimpleData name="Teléfono">0985627163</SimpleData>
+            <SimpleData name="Vivienda_L">-25.11742060000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.82957600000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-25.11792991000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.82992769000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/16</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">16.01429398150</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">169</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.8295854992725,-25.1174914000345,0
+                -55.8296565990583,-25.1186542996132,0
+                -55.8300954996346,-25.1186004001366,0
+                -55.8303353996168,-25.1171969998927,0
+                -55.8295854992725,-25.1174914000345,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">3915545.00000000000</SimpleData>
+            <SimpleData name="cedula">3915545</SimpleData>
+            <SimpleData name="Shape_Leng">443.07356465200</SimpleData>
+            <SimpleData name="Shape_Area">8353.62203474000</SimpleData>
+            <SimpleData name="Cédula_1">3915545.00000000000</SimpleData>
+            <SimpleData name="N_">226.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA NICASIA VERA FARI?A</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">SAN MIGUEL I</SimpleData>
+            <SimpleData name="Teléfono">985549934</SimpleData>
+            <SimpleData name="Vivienda_L">-25.11151330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.96900500000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-25.11249058000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.96714797000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/19</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">13.07906250000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">226</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.966229699777,-25.1125338999417,0
+                -55.9664506992002,-25.1129353996556,0
+                -55.968073099113,-25.1124372004215,0
+                -55.9678566989305,-25.1120499997187,0
+                -55.966229699777,-25.1125338999417,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6820084.00000000000</SimpleData>
+            <SimpleData name="cedula">6820084</SimpleData>
+            <SimpleData name="Shape_Leng">413.28155134900</SimpleData>
+            <SimpleData name="Shape_Area">8134.38679101000</SimpleData>
+            <SimpleData name="Cédula_1">6820084.00000000000</SimpleData>
+            <SimpleData name="N_">260.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">REINA GRICELDA CARDOZO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">SAN MIGUEL I</SimpleData>
+            <SimpleData name="Teléfono">982674407</SimpleData>
+            <SimpleData name="Vivienda_L">-25.09567570000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.95791550000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-25.10250495000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.96093458000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">VERIFICAR POSIBLE DESERCION</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/19</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Observaci">Conflicto de tierra familiar.Se vendi? la parcela para ir a Espa?a</SimpleData>
+            <SimpleData name="Dias_trans">13.21590865740</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">260</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9602507995346,-25.1026479003171,0
+                -55.9604002999924,-25.1031497003017,0
+                -55.961706600454,-25.1022892001555,0
+                -55.961366299941,-25.1019109999714,0
+                -55.9602507995346,-25.1026479003171,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">4267775.00000000000</SimpleData>
+            <SimpleData name="cedula">4267775</SimpleData>
+            <SimpleData name="Shape_Leng">341.89254359800</SimpleData>
+            <SimpleData name="Shape_Area">6998.12592524000</SimpleData>
+            <SimpleData name="Cédula_1">4267775.00000000000</SimpleData>
+            <SimpleData name="N_">142.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIGUEL MARTINEZ CANDIA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0985910247</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71828620000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56611600000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71862030000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56670523000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26752314815</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">142</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5660979999701,-24.7185869997492,0
+                -55.5668536007929,-24.7191432000155,0
+                -55.5671073005351,-24.7190011003095,0
+                -55.5672051004393,-24.7188323995343,0
+                -55.5667518002076,-24.7180183999244,0
+                -55.5660979999701,-24.7185869997492,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6063755.00000000000</SimpleData>
+            <SimpleData name="cedula">6063755</SimpleData>
+            <SimpleData name="Shape_Leng">428.00098600400</SimpleData>
+            <SimpleData name="Shape_Area">8198.02623195000</SimpleData>
+            <SimpleData name="Cédula_1">6063755.00000000000</SimpleData>
+            <SimpleData name="N_">150.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CELIA MARTINEZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0982874576</SimpleData>
+            <SimpleData name="Vivienda_L">-24.72047470000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57024000000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.72278054000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57273461000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26747685186</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">150</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5729268001498,-24.7233532004306,0
+                -55.573092799841,-24.72338700043,0
+                -55.5733156998153,-24.7228351999712,0
+                -55.5722749995615,-24.7220450001085,0
+                -55.5721233003476,-24.7221899994617,0
+                -55.5724530997073,-24.7224189993221,0
+                -55.5722113992027,-24.7228385995575,0
+                -55.5729268001498,-24.7233532004306,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6921659.00000000000</SimpleData>
+            <SimpleData name="cedula">6921659</SimpleData>
+            <SimpleData name="Shape_Leng">458.49976619000</SimpleData>
+            <SimpleData name="Shape_Area">10318.64692980000</SimpleData>
+            <SimpleData name="Cédula_1">6921659.00000000000</SimpleData>
+            <SimpleData name="N_">268.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">UBALDINA  RIVAROLA ARANDA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">984787366</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71245000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55752500000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71566827000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56248225000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26718750000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">268</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.562231700237,-24.7152028000418,0
+                -55.5617116997565,-24.7155849998578,0
+                -55.5628262991695,-24.716388199986,0
+                -55.5629632995025,-24.716002899693,0
+                -55.5630296997081,-24.715354099875,0
+                -55.5629431996495,-24.7153076997603,0
+                -55.5628301001992,-24.7154328992264,0
+                -55.5622915996634,-24.7149947007465,0
+                -55.5621748997814,-24.7151063000683,0
+                -55.562231700237,-24.7152028000418,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">7308117.00000000000</SimpleData>
+            <SimpleData name="cedula">7308117</SimpleData>
+            <SimpleData name="Shape_Leng">485.26483346700</SimpleData>
+            <SimpleData name="Shape_Area">7078.05883433000</SimpleData>
+            <SimpleData name="Cédula_1">7308117.00000000000</SimpleData>
+            <SimpleData name="N_">148.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARGARITA VERA ARANDA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0984611776</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71934190000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56763870000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71929772000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56776669000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26743055556</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">148</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5671423998117,-24.7189966996429,0
+                -55.5673808996433,-24.7191842001658,0
+                -55.5672884001385,-24.7194149000392,0
+                -55.56744720012,-24.719530299934,0
+                -55.5676339999182,-24.7191813002114,0
+                -55.5677897999658,-24.7192597996908,0
+                -55.5674679944659,-24.7196169721747,0
+                -55.5678866999796,-24.7198632999005,0
+                -55.5684221003644,-24.7191375001964,0
+                -55.5672202995628,-24.7188316002475,0
+                -55.5671423998117,-24.7189966996429,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">8067836.00000000000</SimpleData>
+            <SimpleData name="cedula">8067836</SimpleData>
+            <SimpleData name="Shape_Leng">484.80978839400</SimpleData>
+            <SimpleData name="Shape_Area">9799.48887477000</SimpleData>
+            <SimpleData name="Cédula_1">8067836.00000000000</SimpleData>
+            <SimpleData name="N_">233.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCO  GOMEZ PEREIRA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">982664409</SimpleData>
+            <SimpleData name="Vivienda_L">-24.72465360000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.57582680000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Parametro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.72523630000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.57605802000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26748842592</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">233</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5752285002224,-24.7249823001215,0
+                -55.5767305995574,-24.7260067998503,0
+                -55.5767233000941,-24.7252233992154,0
+                -55.5759983000451,-24.7250117000485,0
+                -55.5760367002528,-24.7248649996443,0
+                -55.5756057001991,-24.7245965997504,0
+                -55.5754019004142,-24.724654199401,0
+                -55.5752285002224,-24.7249823001215,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">8083597.00000000000</SimpleData>
+            <SimpleData name="cedula">8083597</SimpleData>
+            <SimpleData name="Shape_Leng">469.98162725500</SimpleData>
+            <SimpleData name="Shape_Area">7848.56771769000</SimpleData>
+            <SimpleData name="Cédula_1">8083597.00000000000</SimpleData>
+            <SimpleData name="N_">149.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">HERMELINDA ESQUIVEL FRANCO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0975905858</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71984550000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56861990000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71964652000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56853364000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26745370370</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">149</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5684221001217,-24.7191510003281,0
+                -55.5679069003669,-24.7198535999902,0
+                -55.5684890000542,-24.7202690004664,0
+                -55.5687998994428,-24.7199536000108,0
+                -55.5685010995944,-24.7197646005308,0
+                -55.5686228997644,-24.719482400252,0
+                -55.568624399396,-24.7194824001178,0
+                -55.5690551999941,-24.7197319995417,0
+                -55.5692766997147,-24.7195163995596,0
+                -55.5688883005137,-24.7192067008492,0
+                -55.5684221001217,-24.7191510003281,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">4267774.00000000000</SimpleData>
+            <SimpleData name="cedula">4267774</SimpleData>
+            <SimpleData name="Shape_Leng">441.79337905300</SimpleData>
+            <SimpleData name="Shape_Area">8227.25684533000</SimpleData>
+            <SimpleData name="Cédula_1">4267774.00000000000</SimpleData>
+            <SimpleData name="N_">152.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELOI MARTINEZ CANDIA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0982148654</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71680840000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56422320000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71591217000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56452490000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26736111111</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">152</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5642835088512,-24.7158109102686,0
+                -55.5640987176363,-24.7160756032232,0
+                -55.5638964006446,-24.7163654000847,0
+                -55.5642782998197,-24.7166943008271,0
+                -55.5651951007679,-24.7153198995132,0
+                -55.5650083003569,-24.7151502001445,0
+                -55.5647458996825,-24.7153783997452,0
+                -55.5645983008538,-24.7153599999271,0
+                -55.5642835088512,-24.7158109102686,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">5254090.00000000000</SimpleData>
+            <SimpleData name="cedula">5254090</SimpleData>
+            <SimpleData name="Shape_Leng">539.23435490700</SimpleData>
+            <SimpleData name="Shape_Area">6986.42229347000</SimpleData>
+            <SimpleData name="Cédula_1">5254090.00000000000</SimpleData>
+            <SimpleData name="N_">154.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MERCEDES RIVAROLA ARANDA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0985603985</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71475410000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56086190000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71467273000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56128697000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26728009259</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">154</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5604151967518,-24.714345019451,0
+                -55.5601713998664,-24.7145498998565,0
+                -55.5602835991368,-24.7146509007947,0
+                -55.560443800248,-24.7144869002197,0
+                -55.560531999836,-24.7145817002846,0
+                -55.560956899987,-24.714336899886,0
+                -55.5612070996649,-24.7146542994737,0
+                -55.5607543005252,-24.7149422993933,0
+                -55.5610342995662,-24.7151506000845,0
+                -55.5616582000053,-24.7147680996445,0
+                -55.5609348149684,-24.7139401317572,0
+                -55.5609187994549,-24.7139218006686,0
+                -55.5604151967518,-24.714345019451,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6755538.00000000000</SimpleData>
+            <SimpleData name="cedula">6755538</SimpleData>
+            <SimpleData name="Shape_Leng">685.40999043500</SimpleData>
+            <SimpleData name="Shape_Area">10585.73617200000</SimpleData>
+            <SimpleData name="Cédula_1">6755538.00000000000</SimpleData>
+            <SimpleData name="N_">147.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SABINO MARTINEZ CANDIA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0981593887</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71808820000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56563320000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71602913000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56368906000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26740740741</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">147</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5656499994929,-24.7172189005674,0
+                  -55.5650454995376,-24.7178928007268,0
+                  -55.5654023991591,-24.718119101212,0
+                  -55.5657046994535,-24.7177797001498,0
+                  -55.5658037997028,-24.7177185008637,0
+                  -55.5660020002624,-24.7178345001878,0
+                  -55.5660156996178,-24.7178218001383,0
+                  -55.56608489969,-24.7178164011154,0
+                  -55.5656499994929,-24.7172189005674,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5637323994781,-24.71551960029,0
+                  -55.5630443992005,-24.7164191003811,0
+                  -55.5632454998068,-24.7165794002893,0
+                  -55.5635199995424,-24.7162388000597,0
+                  -55.5638941994235,-24.7163578004834,0
+                  -55.5640987176363,-24.7160756032232,0
+                  -55.5642835088512,-24.7158109102686,0
+                  -55.5637323994781,-24.71551960029,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_YH__.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6921667.00000000000</SimpleData>
+            <SimpleData name="cedula">6921667</SimpleData>
+            <SimpleData name="Shape_Leng">414.48265318000</SimpleData>
+            <SimpleData name="Shape_Area">9354.40602753000</SimpleData>
+            <SimpleData name="Cédula_1">6921667.00000000000</SimpleData>
+            <SimpleData name="N_">146.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PAOLA MARTINEZ GALEANO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71117840000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55625390000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.70980837000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55427622000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26716435186</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">146</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.553544800069,-24.7097947994086,0
+                -55.5545267004509,-24.7104982994031,0
+                -55.5547232998671,-24.7102450002539,0
+                -55.5546200003361,-24.7100749995975,0
+                -55.5546050000075,-24.7098782995925,0
+                -55.5547750005214,-24.7093583006303,0
+                -55.5544015996823,-24.7092013998674,0
+                -55.553544800069,-24.7097947994086,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6921681.00000000000</SimpleData>
+            <SimpleData name="cedula">6921681</SimpleData>
+            <SimpleData name="Shape_Leng">835.16742028800</SimpleData>
+            <SimpleData name="Shape_Area">8305.33204525000</SimpleData>
+            <SimpleData name="Cédula_1">6921681.00000000000</SimpleData>
+            <SimpleData name="N_">267.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUAN MANUEL FLORES CANDIA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">972925043</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71445500000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56193170000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.70673365000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55698498000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26712962963</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">267</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5568816995423,-24.7067183000574,0
+                -55.559105000133,-24.7073017003704,0
+                -55.5591483002224,-24.7071733003154,0
+                -55.5568904997017,-24.7065359007041,0
+                -55.555593999805,-24.7063674996807,0
+                -55.5552719001914,-24.7064325001769,0
+                -55.5553264992758,-24.7066407005507,0
+                -55.5568816995423,-24.7067183000574,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6942743.00000000000</SimpleData>
+            <SimpleData name="cedula">6942743</SimpleData>
+            <SimpleData name="Shape_Leng">883.13487840500</SimpleData>
+            <SimpleData name="Shape_Area">8200.38839214000</SimpleData>
+            <SimpleData name="Cédula_1">6942743.00000000000</SimpleData>
+            <SimpleData name="N_">230.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">EVER  FLORES CANDIA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">982877221</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71499000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56138500000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.70798989000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55311698000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26715277778</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">230</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5523787996662,-24.7089670995971,0
+                -55.5526968996279,-24.709179900177,0
+                -55.5529748005815,-24.7082245991397,0
+                -55.5537926991239,-24.7074834993237,0
+                -55.5547581001578,-24.7068551998268,0
+                -55.5553132998275,-24.7066315998636,0
+                -55.5552619003036,-24.7064503004802,0
+                -55.5538487007861,-24.7072368007427,0
+                -55.5526646003173,-24.7082840994118,0
+                -55.5523787996662,-24.7089670995971,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.18">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">7223255.00000000000</SimpleData>
+            <SimpleData name="cedula">7223255</SimpleData>
+            <SimpleData name="Shape_Leng">490.58913278500</SimpleData>
+            <SimpleData name="Shape_Area">7211.46117373000</SimpleData>
+            <SimpleData name="Cédula_1">7223255.00000000000</SimpleData>
+            <SimpleData name="N_">143.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">BARCILICIA CENTURION FERNANDEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0984453264</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71409170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56019300000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71379378000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56080588000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26726851852</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">143</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5604151967518,-24.714345019451,0
+                -55.5609187994549,-24.7139218006686,0
+                -55.5609348149684,-24.7139401317572,0
+                -55.5616389000613,-24.7133914995528,0
+                -55.5614130000262,-24.7131980994113,0
+                -55.5609474004432,-24.7134912001105,0
+                -55.560950900637,-24.7134838998719,0
+                -55.5607200004949,-24.7134032996396,0
+                -55.5604050004455,-24.7137180002786,0
+                -55.5605472999934,-24.7138784001837,0
+                -55.5599768001021,-24.7144432001889,0
+                -55.5601606000684,-24.714543399637,0
+                -55.5604151967518,-24.714345019451,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.19">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">7888879.00000000000</SimpleData>
+            <SimpleData name="cedula">7888879</SimpleData>
+            <SimpleData name="Shape_Leng">970.56149629200</SimpleData>
+            <SimpleData name="Shape_Area">11040.27419560000</SimpleData>
+            <SimpleData name="Cédula_1">7888879.00000000000</SimpleData>
+            <SimpleData name="N_">234.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ROSALIA  MARTINEZ GALEANO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">986495390</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71083170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55556670000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.70760870000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56092579000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26711805556</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">234</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5618950001204,-24.7079199997159,0
+                -55.5634933000067,-24.7086150001683,0
+                -55.563533300025,-24.7085416999644,0
+                -55.5621500006455,-24.7078949994311,0
+                -55.5605866997463,-24.7072099998009,0
+                -55.5591599997122,-24.7071817000229,0
+                -55.5591183002276,-24.7073299994819,0
+                -55.5618950001204,-24.7079199997159,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.20">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6599312.00000000000</SimpleData>
+            <SimpleData name="cedula">6599312</SimpleData>
+            <SimpleData name="Shape_Leng">410.68323430500</SimpleData>
+            <SimpleData name="Shape_Area">7974.66564724000</SimpleData>
+            <SimpleData name="Cédula_1">6599312.00000000000</SimpleData>
+            <SimpleData name="N_">145.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ISIDRA MARTINEZ GALEANO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0983310998</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71308780000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.55854020000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71183409000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55836178000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26722222222</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">145</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5579457004577,-24.7111917998147,0
+                -55.5582563006167,-24.7125656002068,0
+                -55.5588871997099,-24.7122294999782,0
+                -55.5582442002238,-24.7110404007137,0
+                -55.5579457004577,-24.7111917998147,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.21">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6599313.00000000000</SimpleData>
+            <SimpleData name="cedula">6599313</SimpleData>
+            <SimpleData name="Shape_Leng">389.15079015500</SimpleData>
+            <SimpleData name="Shape_Area">8476.48347959000</SimpleData>
+            <SimpleData name="Cédula_1">6599313.00000000000</SimpleData>
+            <SimpleData name="N_">269.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ADRIANA  MARTINEZ MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">985395259</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71449080000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56181810000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71142924000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.55962513000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26719907407</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">269</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5589306996966,-24.7112565997959,0
+                -55.5594269001873,-24.7118467999149,0
+                -55.5596491000147,-24.7117287004127,0
+                -55.5598450000552,-24.7119232994941,0
+                -55.5603417003413,-24.711656700747,0
+                -55.5596085000022,-24.710884900677,0
+                -55.5589306996966,-24.7112565997959,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.22">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6974987.00000000000</SimpleData>
+            <SimpleData name="cedula">6974987</SimpleData>
+            <SimpleData name="Shape_Leng">371.08353776200</SimpleData>
+            <SimpleData name="Shape_Area">8153.96402120000</SimpleData>
+            <SimpleData name="Cédula_1">6974987.00000000000</SimpleData>
+            <SimpleData name="N_">153.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FELIPE FLORES RIVAROLA</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0984385659</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71555720000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56313290000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71525810000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56393992000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26730324074</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">153</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5634127995978,-24.7153233002017,0
+                -55.5642683004633,-24.7157923001015,0
+                -55.564635800026,-24.7152765001771,0
+                -55.5637105007817,-24.7147711997267,0
+                -55.5632291999692,-24.7150572991212,0
+                -55.5634127995978,-24.7153233002017,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.23">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">7734626.00000000000</SimpleData>
+            <SimpleData name="cedula">7734626</SimpleData>
+            <SimpleData name="Shape_Leng">536.25632066100</SimpleData>
+            <SimpleData name="Shape_Area">7452.15848638000</SimpleData>
+            <SimpleData name="Cédula_1">7734626.00000000000</SimpleData>
+            <SimpleData name="N_">144.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARLENE DUARTE CENTURION</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KOE POTY</SimpleData>
+            <SimpleData name="Teléfono">0983162865</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71402620000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56013260000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71332829000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56023999000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26724537037</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">144</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5603228999964,-24.7135196994439,0
+                -55.5596233007234,-24.7141699997107,0
+                -55.5597983007339,-24.7143333003888,0
+                -55.5600148006577,-24.7140392001132,0
+                -55.5599671005358,-24.7139457999025,0
+                -55.5600532000006,-24.7138604997359,0
+                -55.5601263999254,-24.7139244004025,0
+                -55.5607628996501,-24.7133167998265,0
+                -55.5608312003024,-24.7131995993719,0
+                -55.5602607996935,-24.7126918004814,0
+                -55.5597204998393,-24.7130361003676,0
+                -55.5603228999964,-24.7135196994439,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.24">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">8045812.00000000000</SimpleData>
+            <SimpleData name="cedula">8045812</SimpleData>
+            <SimpleData name="Shape_Leng">546.98261729800</SimpleData>
+            <SimpleData name="Shape_Area">8169.31684494000</SimpleData>
+            <SimpleData name="Cédula_1">8045812.00000000000</SimpleData>
+            <SimpleData name="N_">231.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUCIANA  MARTINEZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">983499878</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71719170000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56484000000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71726314000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56512830000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26738425926</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">231</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5646449990911,-24.7176265000992,0
+                  -55.5650316998031,-24.7178632990846,0
+                  -55.5656407003818,-24.7171743996395,0
+                  -55.5652543998863,-24.7166866993111,0
+                  -55.564814199349,-24.7169711994156,0
+                  -55.564646099047,-24.7170765993774,0
+                  -55.5649799998449,-24.7172382997736,0
+                  -55.5646449990911,-24.7176265000992,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.5613920991385,-24.715019699383,0
+                  -55.5615259998836,-24.7151727996339,0
+                  -55.5620354002673,-24.7148435998989,0
+                  -55.5618753997505,-24.7147063992353,0
+                  -55.5613920991385,-24.715019699383,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_YH__.25">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">8050941.00000000000</SimpleData>
+            <SimpleData name="cedula">8050941</SimpleData>
+            <SimpleData name="Shape_Leng">530.01963254900</SimpleData>
+            <SimpleData name="Shape_Area">8299.51582024000</SimpleData>
+            <SimpleData name="Cédula_1">8050941.00000000000</SimpleData>
+            <SimpleData name="N_">270.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MIGUELA  GONZALEZ OLMEDO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[COM INDIG KO'E POTY]]></SimpleData>
+            <SimpleData name="Teléfono">983038874</SimpleData>
+            <SimpleData name="Vivienda_L">-24.71660090000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.56364540000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-24.71633747000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.56472939000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">2.26732638889</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">270</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.5639616998805,-24.7171988006427,0
+                -55.5641223000243,-24.7173036005305,0
+                -55.5643830993898,-24.7171359997816,0
+                -55.5654626995533,-24.7156090003215,0
+                -55.5651734998784,-24.7153685997989,0
+                -55.5642850000047,-24.7166849994871,0
+                -55.5639616998805,-24.7171988006427,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YH__.26">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YH__.schema">
+            <SimpleData name="Cédula">6307085.00000000000</SimpleData>
+            <SimpleData name="cedula">6307085</SimpleData>
+            <SimpleData name="Shape_Leng">508.58116478800</SimpleData>
+            <SimpleData name="Shape_Area">7057.35530949000</SimpleData>
+            <SimpleData name="Cédula_1">6307085.00000000000</SimpleData>
+            <SimpleData name="N_">182.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LOURDES PATRICIA SOSA MOLINAS</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Cédula_Ti">0.00000000000</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CAAGUAZU</SimpleData>
+            <SimpleData name="Distrito">YH?</SimpleData>
+            <SimpleData name="Localidad">JUKERI</SimpleData>
+            <SimpleData name="Teléfono">985620024</SimpleData>
+            <SimpleData name="Vivienda_L">-25.15093720000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.91729030000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">Si</SimpleData>
+            <SimpleData name="Parcela_La">-25.16133713000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.93550676000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">D-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">D</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">MONITOREAR</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/28</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">4.01361111111</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">182</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.9392084998782,-25.1618653008429,0
+                  -55.9397827004375,-25.1619224004714,0
+                  -55.9398827001219,-25.1614320000661,0
+                  -55.9392275001688,-25.1613855004744,0
+                  -55.9392084998782,-25.1618653008429,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  -55.9351191003672,-25.1615268006579,0
+                  -55.9358497002773,-25.1615748004012,0
+                  -55.9359485283639,-25.1610102185321,0
+                  -55.9358067002839,-25.1611464002825,0
+                  -55.9350614002036,-25.1611451002024,0
+                  -55.9351191003672,-25.1615268006579,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
