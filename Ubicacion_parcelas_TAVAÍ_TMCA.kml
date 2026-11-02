@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_TAVA__.schema">
+      <SimpleField name="CÈdula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Shape_Leng" type="double"/>
+      <SimpleField name="Shape_Area" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="CÈdula_1" type="double"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="CÈdula_Ti" type="string"/>
+      <SimpleField name="SituaciÛn" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="TelÈfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_de_p" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Cantidad_d" type="double"/>
+      <SimpleField name="F25" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_TAVA__">
+      <name>Distrito_TAVA√ç</name>
+      <Placemark id="Distrito_TAVA__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TAVA__.schema">
+            <SimpleData name="CÈdula">5730725.00000000000</SimpleData>
+            <SimpleData name="cedula">5730725</SimpleData>
+            <SimpleData name="Shape_Leng">370.46648855000</SimpleData>
+            <SimpleData name="Shape_Area">8516.39121586000</SimpleData>
+            <SimpleData name="N">304.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CAROLINA BENITEZ AMARILLA</SimpleData>
+            <SimpleData name="CÈdula_1">5730725.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">TAVA?</SimpleData>
+            <SimpleData name="Localidad">TORO BLANCO</SimpleData>
+            <SimpleData name="TelÈfono">0986328449</SimpleData>
+            <SimpleData name="Vivienda_L">-26.30603200000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70922970000</SimpleData>
+            <SimpleData name="Parcela_La">-26.31121299000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.71202431000</SimpleData>
+            <SimpleData name="Grupo_de_p">A-P3-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">304</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.7120243104514,-26.3112129935003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_TAVA__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TAVA__.schema">
+            <SimpleData name="CÈdula">2652069.00000000000</SimpleData>
+            <SimpleData name="cedula">2652069</SimpleData>
+            <SimpleData name="Shape_Leng">375.94726185900</SimpleData>
+            <SimpleData name="Shape_Area">8500.87767910000</SimpleData>
+            <SimpleData name="N">261.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVA ESTHER DUARTE DE ZARACHO</SimpleData>
+            <SimpleData name="CÈdula_1">2652069.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">TAVA?</SimpleData>
+            <SimpleData name="Localidad">ENRAMADITA</SimpleData>
+            <SimpleData name="TelÈfono">0985988515</SimpleData>
+            <SimpleData name="Vivienda_L">-26.16986300000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.67788960000</SimpleData>
+            <SimpleData name="Parcela_La">-26.16474543000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67202827000</SimpleData>
+            <SimpleData name="Grupo_de_p">A-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">261</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6720282720883,-26.1647454281301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_TAVA__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TAVA__.schema">
+            <SimpleData name="CÈdula">3293639.00000000000</SimpleData>
+            <SimpleData name="cedula">3293639</SimpleData>
+            <SimpleData name="Shape_Leng">420.76470013500</SimpleData>
+            <SimpleData name="Shape_Area">10552.72533940000</SimpleData>
+            <SimpleData name="N">264.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NILSA RAMIRES ALVARES</SimpleData>
+            <SimpleData name="CÈdula_1">3293639.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">TAVA?</SimpleData>
+            <SimpleData name="Localidad">ENRAMADITA</SimpleData>
+            <SimpleData name="TelÈfono">0982889041</SimpleData>
+            <SimpleData name="Vivienda_L">-26.17380590000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69246340000</SimpleData>
+            <SimpleData name="Parcela_La">-26.20643985000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.67850995000</SimpleData>
+            <SimpleData name="Grupo_de_p">A-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">264</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6785099472928,-26.2064398537586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_TAVA__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TAVA__.schema">
+            <SimpleData name="CÈdula">3932773.00000000000</SimpleData>
+            <SimpleData name="cedula">3932773</SimpleData>
+            <SimpleData name="Shape_Leng">509.84663193200</SimpleData>
+            <SimpleData name="Shape_Area">9053.13782555000</SimpleData>
+            <SimpleData name="N">269.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA INES BRITOS VERGARA</SimpleData>
+            <SimpleData name="CÈdula_1">3932773.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">TAVA?</SimpleData>
+            <SimpleData name="Localidad">TORO BLANCO</SimpleData>
+            <SimpleData name="TelÈfono">0985693362</SimpleData>
+            <SimpleData name="Vivienda_L">-26.25541330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70289860000</SimpleData>
+            <SimpleData name="Parcela_La">-26.24992549000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.70530114000</SimpleData>
+            <SimpleData name="Grupo_de_p">A-P2-P7P7-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">269</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.7053011362724,-26.2499254909129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_TAVA__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_TAVA__.schema">
+            <SimpleData name="CÈdula">4778726.00000000000</SimpleData>
+            <SimpleData name="cedula">4778726</SimpleData>
+            <SimpleData name="Shape_Leng">457.51688042800</SimpleData>
+            <SimpleData name="Shape_Area">9948.39186664000</SimpleData>
+            <SimpleData name="N">491.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GRACIELA  ORTIZ FERREIRA</SimpleData>
+            <SimpleData name="CÈdula_1">4778726.00000000000</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="SituaciÛn">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">TAVA?</SimpleData>
+            <SimpleData name="Localidad">ENRAMADITA</SimpleData>
+            <SimpleData name="TelÈfono">983350694</SimpleData>
+            <SimpleData name="Vivienda_L">-26.17407920000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.69942530000</SimpleData>
+            <SimpleData name="Parcela_La">-26.30563263000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72812183000</SimpleData>
+            <SimpleData name="Grupo_de_p">A-P2-P7P7-XX-XX</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Red Forestal Paraguay SA</SimpleData>
+            <SimpleData name="Lote">A</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Cantidad_d">1.00000000000</SimpleData>
+            <SimpleData name="F25">#N/A</SimpleData>
+            <SimpleData name="OBJECTID_1">491</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.7281218324694,-26.3056326253177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
